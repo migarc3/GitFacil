@@ -5,3 +5,4 @@ basura
 d
 
 este mundo es muy duro
+fetch
