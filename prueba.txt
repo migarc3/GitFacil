@@ -6,4 +6,8 @@ d
 
 este mundo es muy duro
 fetch
+<<<<<<< HEAD
 nuevo fetch!!!
+=======
+fetch2
+>>>>>>> origin/master
